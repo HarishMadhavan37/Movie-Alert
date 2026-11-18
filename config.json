@@ -1,9 +1,6 @@
 {
-  "detector": "venue_date",
-  "movie": "Avengers: Doomsday",
+  "detector": "bms_date",
   "requested_date": "20261217",
-  "venue_code": "RAKK",
-  "venue_label": "Rakki Cinemas: OMR, Kelambakkam",
-  "url_template": "https://in.bookmyshow.com/movies/chennai/avengers-doomsday/buytickets/ET00526287/{date}",
+  "url_template": "https://in.bookmyshow.com/movies/chennai/avengers-doomsday/buytickets/ET00439706/{date}",
   "min_references": 10
 }
